@@ -8,7 +8,7 @@ function setup() {
 }
 
 function draw() {
-  image(img,0,0);
+ 
   
   if (mouseIsPressed ===False) {
     console.log(mouseX,mouseY);
