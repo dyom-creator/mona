@@ -4,7 +4,7 @@ function preload(){
   img = loadImage('mona.png');
 }
 function setup() {
-  createCanvas(1280, 720);
+  createCanvas(1250, 720);
 }
 
 function draw() {
