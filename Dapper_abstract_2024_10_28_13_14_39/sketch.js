@@ -10,7 +10,7 @@ function setup() {
 function draw() {
   image(img,0,0);
   
-  if (mouseIsPressed ===False) {
+  if (mouseIsPressed ===True) {
     console.log(mouseX,mouseY);
   } 
   
